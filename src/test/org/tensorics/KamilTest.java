@@ -8,4 +8,8 @@ public class KamilTest {
     public void testDummy() {
 
     }
+    
+    public void testDummy2() {
+        
+    }
 }
